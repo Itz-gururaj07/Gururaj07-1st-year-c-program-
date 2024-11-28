@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-// chandansb
+// GURURAJ
 int main() {
     int n, *arr;
 
